@@ -1,0 +1,3 @@
+com\juliomesquita\course\infra\controllers\CourseController.class
+com\juliomesquita\course\CourseApplication.class
+com\juliomesquita\course\app\services\CourseService.class
