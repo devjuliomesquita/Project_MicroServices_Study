@@ -19,8 +19,8 @@
     <modules>
         <module>course</module>
         <module>core</module>
-        <module>discovery</module>
-        <module>gateway</module>
+<!--        <module>discovery</module>-->
+<!--        <module>gateway</module>-->
     </modules>
     <dependencies>
         <dependency>

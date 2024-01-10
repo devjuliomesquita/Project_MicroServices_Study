@@ -31,3 +31,5 @@ Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140
 gateway/mvnw,e\5\e5a3d5450becc8a5b6bd995f01338866048aaf73
 w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
+t
+Dcourse/src/main/java/com/juliomesquita/course/CourseApplication.java,1\5\15b97b6bad6a010d05d4ab7130975d08f88d2e59

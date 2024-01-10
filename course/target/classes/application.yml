@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: couse
+    name: course
   jpa:
     show-sql: false
     hibernate:
@@ -17,3 +17,12 @@ spring:
     url: jdbc:mysql://localhost:3306/microservices?allowPublickeyRetrieval=true&sslMode=DISABLED
     username: root
     password: 1234
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://localhost:8082/eureka/
+    fetch-registry: true
+    register-with-eureka: true
