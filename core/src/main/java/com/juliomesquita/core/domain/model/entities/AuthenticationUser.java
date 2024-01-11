@@ -22,8 +22,18 @@ public class AuthenticationUser implements AbstractEntity {
 
     @Column(nullable = false)
     private String password;
+
+    @Column(nullable = false)
+    private String role = "User";
     @Override
     public Long getId() {
         return null;
+    }
+
+    public AuthenticationUser(AuthenticationUser authenticationUser){
+        this.id = authenticationUser.getId();
+        this.username = authenticationUser.getUsername();
+        this.password = authenticationUser.getPassword();
+        this.role = authenticationUser.getRole();
     }
 }

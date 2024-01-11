@@ -61,3 +61,13 @@ Wcore/src/main/java/com/juliomesquita/core/domain/model/entities/AuthenticationU
 Ucore/src/main/java/com/juliomesquita/core/infra/config/security/JwtConfiguration.java,1\2\1298ef1410c71bf969633ebaa18b218c2d5ccb71
 Œ
 \authentication/src/main/java/com/juliomesquita/authentication/AuthenticationApplication.java,0\2\02df4d395443ceda5c5e9424eeb72023c3e841c5
+<
+core/pom.xml,7\6\76401d80919958a0380f14132adf8b8fc9c3d6ea
+¢
+rauthentication/src/main/java/com/juliomesquita/authentication/infra/config/security/SecurityCredentialsConfig.java,0\0\007acd6ff8005fe31c4227a88da8bdd75bc482a8
+¤
+tauthentication/src/main/java/com/juliomesquita/authentication/infra/config/security/user/UserDetailsServiceImpl.java,f\c\fcfa6efead5b95f40d201b80c562f5bccb5d6bfa
+Œ
+\core/src/main/java/com/juliomesquita/core/infra/repository/AuthenticationUserRepository.java,c\8\c8f54512d79953f648655465a88cc1cc1a60a94d
+»
+Šauthentication/src/main/java/com/juliomesquita/authentication/infra/config/security/filter/JwtUsernameAndPasswordAuthenticationFilter.java,5\8\58edb378a654a8243dbd8fde1786a6617d39bb8a
