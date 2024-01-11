@@ -19,7 +19,7 @@
     <modules>
         <module>course</module>
         <module>core</module>
-<!--        <module>discovery</module>-->
+<!--        <module>authentication</module>-->
 <!--        <module>gateway</module>-->
     </modules>
     <dependencies>
