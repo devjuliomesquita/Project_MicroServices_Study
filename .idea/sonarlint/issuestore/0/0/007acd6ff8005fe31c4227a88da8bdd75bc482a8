@@ -1,0 +1,9 @@
+
+a
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(äÕþÈ8Ê§ˆ±Ï1
+T
+java:S1611 "2Remove the parentheses around the "csrf" parameter(ª»ŽÇþÿÿÿÿ8Í§ˆ±Ï1
+e
+java:S1611!"CRemove the parentheses around the "authorizeHttpRequests" parameter(äŒ¥¯úÿÿÿÿ8Î§ˆ±Ï1
+a
+java:S1611'"?Remove the parentheses around the "sessionManagement" parameter(þü˜èûÿÿÿÿ8Î§ˆ±Ï1
