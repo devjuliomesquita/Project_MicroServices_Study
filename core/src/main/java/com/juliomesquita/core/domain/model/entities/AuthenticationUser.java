@@ -44,15 +44,6 @@ public class AuthenticationUser implements AbstractEntity, UserDetails {
         return null;
     }
 
-    public AuthenticationUser(AuthenticationUser authenticationUser){
-        this.id = authenticationUser.getId();
-        this.email = authenticationUser.getEmail();
-        this.username = authenticationUser.getUsername();
-        this.password = authenticationUser.getPassword();
-        this.role = authenticationUser.getRole();
-        this.provider = authenticationUser.getProvider();
-    }
-
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
         return List.of(new SimpleGrantedAuthority(role.name()));
